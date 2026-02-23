@@ -18,4 +18,4 @@ Suppose we have three types of characters in a GameApp:
 3. SwingSword
 
 ## UML Class Diagram
-![Image](https://github.com/tricialabbao/StrategyPattern/blob/main/StrategyPatternUML.png)
+![Image](https://github.com/tricialabbao/StateDesign-Lab/blob/main/StateDesignPattern.png)
